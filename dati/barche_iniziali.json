@@ -1,0 +1,40 @@
+[
+  {
+    "codice": "G1",
+    "nome": "Gommone di assistenza",
+    "posti": 4,
+    "dotazioni": [
+      "motore",
+      "radio"
+    ]
+  },
+  {
+    "codice": "O8",
+    "nome": "Otto",
+    "posti": 9,
+    "dotazioni": [
+      "remi di punta",
+      "timone",
+      "carrello"
+    ]
+  },
+  {
+    "codice": "Q4",
+    "nome": "Quattro di coppia",
+    "posti": 5,
+    "dotazioni": [
+      "remi di coppia",
+      "timone",
+      "carrello"
+    ]
+  },
+  {
+    "codice": "X2",
+    "nome": "Doppio",
+    "posti": 2,
+    "dotazioni": [
+      "remi di coppia",
+      "carrello"
+    ]
+  }
+]
